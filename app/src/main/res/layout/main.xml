@@ -13,7 +13,7 @@
 This is a Comment 
 <EditText android:text="E0:D7:BA:A7:B2:DE" android:id="@+id/EditTextMAC" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
  -->
- <EditText android:text="E0:D7:BA:A7:B2:DE" android:id="@+id/EditTextMAC" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
+ <EditText android:text="00:81:F9:0B:2A:E8" android:id="@+id/EditTextMAC" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
 <EditText android:text="0000000000000000" 
 android:id="@+id/labelSerialNumber" 
 android:layout_width="wrap_content" 

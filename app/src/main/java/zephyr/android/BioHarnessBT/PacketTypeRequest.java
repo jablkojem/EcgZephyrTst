@@ -28,7 +28,7 @@ public class PacketTypeRequest {
 	
 	public PacketTypeRequest()
 	{
-		GP_ENABLE= false;
+		GP_ENABLE= true;
 		ECG_ENABLE= false;
 		BREATHING_ENABLE= false;
 		RtoR_ENABLE= false;
