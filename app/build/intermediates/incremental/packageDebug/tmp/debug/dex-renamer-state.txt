@@ -1,0 +1,4 @@
+#Tue Apr 27 23:56:25 CEST 2021
+base.0=/Users/martinmajak/Downloads/BioHarnessBT_v3 21/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

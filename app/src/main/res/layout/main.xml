@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  android:id="@+id/labelMAC"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/labelMAC"
+    />
+<!--   
+This is a Comment 
+<EditText android:text="E0:D7:BA:A7:B2:DE" android:id="@+id/EditTextMAC" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
+ -->
+ <EditText android:text="E0:D7:BA:A7:B2:DE" android:id="@+id/EditTextMAC" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
+<EditText android:text="0000000000000000" 
+android:id="@+id/labelSerialNumber" 
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"
+/>
+<Button android:text="Connect" android:id="@+id/ButtonConnect" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+<Button android:text="Disconnect" android:id="@+id/ButtonDisconnect" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+<TextView  android:id="@+id/genText"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<TextView  android:id="@+id/ecgText"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+  <TextView  android:id="@+id/breathText"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+      <TextView  android:id="@+id/RtoRText"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""  
+     />
+    <TextView  android:id="@+id/Accelerometertext"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""  
+     />
+   <TextView  android:id="@+id/SummaryDataText"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""  
+     />
+  <TextView  android:id="@+id/EventDataText"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""  
+     />
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">ZephyrBT</string>
+    <string name="app_name">BioHarnessBT</string>
+<string name="labelMAC">Enter a valid MAC Address:</string>
+<string name="labelSerialNumber">A valid Serial Number</string>
+<string name="ErrorStatusValue">Currnet Error Status</string>
+</resources>

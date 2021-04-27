@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/martinmajak/Downloads/BioHarnessBT_v3 21/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/martinmajak/Downloads/BioHarnessBT_v3 21/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "6,3,2,4,5",
+                        "startColumns": "0,4,4,0,0",
+                        "startOffsets": "268,98,55,144,204",
+                        "endColumns": "61,49,42,59,63",
+                        "endOffsets": "329,143,93,203,267"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,121,171,214,278",
+                        "endColumns": "65,49,42,63,67",
+                        "endOffsets": "116,166,209,273,341"
+                    }
+                }
+            ]
+        }
+    ]
+}
